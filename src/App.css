@@ -1,0 +1,1567 @@
+body .theme-bg-color {
+  background: #fff !important;
+  color: black
+}
+
+body .btmblk.webheader.header-content,
+body .custom-template,
+body .footer-container,
+.wap .footer-main,
+body .edit-content,
+body .mobileHeaderBlock,
+body.wap .sticky-footer {
+  font-family: Open Sans !important;
+  font-weight: 400 !important
+}
+
+body .custom-template.global-block-padding {
+  padding-top: 45px;
+  padding-bottom: 45px,
+
+}
+
+body.wap .custom-template.global-block-padding {
+  padding-top: 30px;
+  padding-bottom: 30px
+}
+
+.webheader {
+  background-color: rgba(255, 255, 255, 0) !important
+}
+
+.webheader-color {
+  color: rgba(255, 255, 255, 0) !important
+}
+
+.store-name-color {
+  color: #333 !important
+}
+
+.social-icon {
+  color: #3e3e3e !important
+}
+
+.social-icon:hover {
+  color: #d8778c !important
+}
+
+.signupLogin .signupLoginModal .left-section.webheader,
+.bookAppointment .calendar-container .webheader {
+  background-color: #fff !important
+}
+
+.signupLogin .signupLoginModal .logo-section .shortNameContainer .store-initial-color {
+  color: #fff !important
+}
+
+.signupLogin .signupLoginModal .logo-text-section .logo-heading.store-name-color,
+.signupLogin .signupLoginModal .logo-text-section .logo-txt.store-name-color {
+  color: #333 !important
+}
+
+body.IPad .social-icon:hover {
+  color: #3e3e3e !important
+}
+
+
+.header-btn {
+  color: #3e3e3e !important
+}
+
+.header-btn:hover {
+  text-decoration: underline !important
+}
+
+.header-icon {
+  color: #3e3e3e !important
+}
+
+.partition-color {
+  border-top: 1px solid #101010 !important
+}
+
+.store-bg-color {
+  background-color: #d8778c !important
+}
+
+.header-block .store-bg-color {
+  border-color: #d8778c !important
+}
+
+.header-block .userAccount-wrapper .my-account-pop-up .list-item:hover {
+  background: #d8778c !important;
+  color: #fff !important
+}
+
+.header-block .userAccount-wrapper .my-account-pop-up .list-item:hover .myAccountText {
+  color: #fff !important
+}
+
+.header-block .userAccount-wrapper .my-account-pop-up.popover.bottom>.arrow:after {
+  border-bottom-color: #fff !important
+}
+
+.header-block .userAccount-wrapper .my-account-pop-up,
+.header-block .userAccount-wrapper .my-account-pop-up .list-item {
+  background: #fff !important
+}
+
+.header-block .userAccount-wrapper .my-account-pop-up .list-item .myAccountText {
+  color: #000 !important
+}
+
+.store-initial-color {
+  color: #fff !important
+}
+
+.search-bg-color {
+  border: 1px solid #e2cc15 !important
+}
+
+.webheader.header-content .header-block:not(.coverImageHeader) .header-custom-template {
+  background-color: rgba(255, 255, 255, 0)
+}
+
+.webheader.logo-canvas {
+  background-color: rgba(255, 255, 255, 0) !important;
+  background-color: #fff !important
+}
+
+.leaflet-map-pane .leaflet-popup .leaflet-popup-content-wrapper,
+.getdirections.store-bg-color,
+.signupLogin .signupLoginModal .logo-section .shortNameContainer.store-bg-color {
+  background: #d8778c !important
+}
+
+.leaflet-map-pane .leaflet-popup .leaflet-popup-content-wrapper .leaflet-outlet-name,
+.leaflet-map-pane .leaflet-popup .leaflet-popup-content-wrapper .leaflet-outlet-area,
+.getdirections.store-initial-color {
+  color: #fff !important
+}
+
+.web-theme-background .webheader.header-content.no-cover-part .first-second-block {
+  background-image: none;
+  background-color: #fff
+}
+
+.home .webheader.header-content .first-second-block {
+  background-image: linear-gradient(-180deg, rgba(255, 255, 255, 0) 14%, rgba(0, 0, 0, 0) 94%) !important
+}
+
+.webheader.header-content:not(.header-sticky):not(.no-cover-part) .coverImageHeader .first-second-block {
+  background-color: rgba(255, 255, 255, 0) !important;
+  background-image: none !important
+}
+
+.header-content.header-sticky .coverImageHeader .first-second-block {
+  background-image: none !important;
+  background-color: #fff !important
+}
+
+.header-top-color {
+  background-color: rgba(0, 0, 0, 0) !important
+}
+
+.webheader.header-content:not(.no-cover-part) .header-block.coverImageHeader .header-custom-template {
+  background-color: rgba(0, 0, 0, 0) !important
+}
+
+.header-middle-color {
+  background-color: rgba(255, 255, 255, 0) !important
+}
+
+.header-block.machinery3 .third-block {
+  background-color: rgba(255, 255, 255, 0) !important
+}
+
+.search-bg-color:hover {
+  border: 1px solid #d6c00a !important
+}
+
+.cart-brder-color {
+  border: 1px solid !important
+}
+
+.cart-txt-icon {
+  color: #333 !important
+}
+
+.cart-cnt-bg {
+  background-color: #ba0404 !important
+}
+
+.cart-bttn-bg {
+  cursor: pointer
+}
+
+.cart-bttn-bg:hover {
+  cursor: pointer
+}
+ 
+.webheader .cart-btn-icon,
+.webheader .cart-icon {
+  color: #333 !important
+}
+ 
+.cart-brder-color.cart-bttn-bg:hover .dta.search-scroll-bg.search-scroll-icon.cart-cnt-bg {
+  background-color: #ba0404 !important;
+}
+
+.cart-count-val {
+  color: #fff !important
+}
+
+.cart-brder-color.cart-bttn-bg:hover .cart-count-val {
+  color: #fff !important
+}
+
+.cart-brder-color:hover {
+  border: 1px solid !important
+}
+
+.category-header-color {
+  color: #3c4144 !important
+}
+
+.sub-category-hover:hover,
+.sub-category-hover:active {
+  color: #101010 !important
+}
+
+.header-block.header-block.machinery3 .third-block .burger-menu-wrapper.setHoverBackground,
+#content_wrapper .leftnavOverlay #leftNavMenuRevamp {
+  background-color: #fff !important
+}
+
+.user-submenu-icon {
+  color: #000 !important
+}
+
+.header-block .userAccount-wrapper .my-account-pop-up .list-item:hover .icon-style,
+.user-submenu-icon:hover {
+  color: #fff !important
+}
+
+.header-block:not(.grocery):not(.machinery3) .burger-menu-wrapper:hover .menuIconBar.whiteBack,
+.header-block:not(.grocery):not(.machinery3) .burger-menu-wrapper:hover .transparent-div,
+.header-block:not(.grocery):not(.machinery3) .burger-menu-wrapper.setHoverBackground .menuIconBar.whiteBack,
+.header-block:not(.grocery):not(.machinery3) .burger-menu-wrapper.setHoverBackground .transparent-div {
+  background-color: #fff !important
+}
+
+#leftNavMenuRevamp .leftNavWrapperRevamp .leftNavigationLeftContainer ul li.navlink:hover {
+  background-color: #d8778c !important
+}
+
+.menuLink-color {
+  color: #333 !important
+}
+
+.menuLink-color:hover {
+  color: #d8778c !important
+}
+ 
+.menulink-with-popover.popoverOpen .menuLink-color,
+.menuLink-color:hover>a,
+.menuLink-color:hover>i {
+  color: #d8778c !important;
+  text-decoration: none
+}
+
+.menuLink-color:hover~i {
+  color: #d8778c !important;
+  text-decoration: none
+}
+ 
+.user-icon-color {
+  color: #3e3e3e !important
+}
+
+.searchBar-bg:focus {
+  background-color: #fff !important
+}
+
+.category-burger-menu {
+  color: #858585 !important
+}
+
+
+@media (min-width: 768px) {
+
+  .category-burger-menu:hover,
+  .menuIconBar.whiteBack .category-burger-menu {
+    color: #d8778c !important
+  }
+
+  .bannerImgStyle {
+    height: 550px !important;
+    background-size: 100% 100% !important;
+  }
+  .cssCustom {
+    height: 300px !important;
+    border-radius: 10px;
+    display: flex;
+    justify-content: end;
+    margin-right: 100px;
+    position: relative;
+    top: 142px;
+  }
+}
+
+@media (max-width: 768px) {
+  .bannerImgStyle {
+    height: 333px !important;
+    background-size: 164% 100% !important;
+    background-position-x: center
+
+  }
+
+  .cssCustom {
+    height: 300px !important;
+    border-radius: 10px;
+    position: relative;
+    top: 66px;
+    margin-right: 18px;
+  }
+}
+
+.rainbow-text {
+  font-size: 3rem;
+  /* Adjust font size as needed */
+  font-weight: bold;
+  text-transform: uppercase;
+  background: linear-gradient(to right, #ff0000, #ff8000, #ffff00, #00ff00, #0000ff, #8000ff, #ff00ff);
+  /* Rainbow gradient */
+  -webkit-background-clip: text;
+  /* Apply gradient to text */
+  -webkit-text-fill-color: transparent;
+  /* Hide original text */
+  animation: rainbow-animation 4s linear infinite;
+  /* Rainbow animation */
+}
+
+
+/* Header styling */
+header {
+  background-color: #FFCCCC;
+  /* Soft Pink for header background */
+  padding: 20px;
+  text-align: center;
+}
+
+/* Navigation menu styling */
+nav {
+  background-color: #FFF8DC;
+  /* Cream for navigation background */
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #800080;
+  /* Purple for navigation links */
+}
+
+/* Main content area */
+.main-content {
+  padding: 20px;
+}
+
+/* Section headings */
+h1,
+h2,
+h3 {
+  color: #800080;
+  /* Purple for section headings */
+}
+
+/* Buttons */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #FFDAB9;
+  /* Peach for button background */
+  color: #FFF;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* Links */
+a {
+  color: #800080;
+  /* Purple for links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+@keyframes rainbow-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+
+.burger-menu-wrapper {
+  color: #858585 !important;
+}
+
+.header-block.grocery .burger-menu-wrapper:hover,
+.burger-menu-wrapper .menuIconBar:hover,
+.burger-menu-wrapper.setHoverBackground {
+  color: #d8778c !important;
+}
+
+.burger-menu-wrapper.setHoverBackground .webheader-color.category-burger-menu {
+  color: #d8778c !important
+}
+
+.burger-menu-wrapper .cat-text,
+.burger-menu-wrapper .category-burger-menu {
+  color: inherit !important
+}
+
+.default-text-color {
+  color: #3e3e3e !important
+}
+
+.header-content .header-block.machinery3 .first-block .right-sec .default-text-color:hover,
+.default-text-color:hover,
+.contactUs:hover .default-text-color,
+.default-text-color:hover .default-text-color {
+  color: #d8778c !important
+}
+
+.header-content .header-block.machinery3 .first-block .right-sec .default-icon-color:hover,
+.default-text-color:hover .default-icon-color,
+.contactUs:hover .default-icon-color,
+.default-icon-color:hover {
+  color: #d8778c !important
+}
+
+.default-text-color:hover .links-text {
+  text-decoration: None !important
+}
+
+.header-block .signup-login-btn-div:hover .sign-up-login-btn,
+.header-block .my-account-holder:hover .welcome-text-span {
+  text-decoration: None !important
+}
+
+.header-block .pageLink .track-order.menuLink-color:hover:not(#moreMenuLink),
+.header-block .pageLink:hover .track-order.menuLink-color:not(#moreMenuLink),
+.header-block .pageLink .track-order.menuLink-color:hover .header-more-txt:not(.icon-pagination-down),
+.header-block .pageLink:hover .track-order.menuLink-color .header-more-txt:not(.icon-pagination-down) {
+  text-decoration: None !important
+}
+
+.default-icon-color {
+  color: #3e3e3e !important
+}
+
+.category-menu:hover {
+  color: #d8778c !important
+}
+
+.cart-border-line {
+  border-color: rgba(0, 0, 0, 0) !important
+}
+
+.menuLink-background {
+  background-color: rgba(0, 0, 0, 0) !important
+}
+
+.child-menuLink-background {
+  background-color: #fff !important
+}
+
+.child-menuLink-background .arrow:after {
+  border-bottom-color: #fff !important
+}
+
+.child-menuLink-hover:hover {
+  background-color: #d8778c !important
+}
+
+.child-menuLink-hover:hover>a,
+.child-menuLink-hover:hover>i,
+.child-menuLink-hover:hover>.icon-wrapper {
+  color: #fff !important
+}
+
+.child-menuLink-color {
+  color: #333 !important
+}
+
+.child-menuLink-color:hover {
+  color: #fff !important
+}
+
+.login-signup-color {
+  color: #333 !important
+}
+
+.my-account-div:hover .login-signup-color,
+.login-signup-color:hover {
+  color: #d8778c !important
+}
+
+.login-signup-separator:hover,
+.login-signup-separator {
+  color: #333 !important
+}
+
+.fake-login-signup-divider {
+  color: #333 !important
+}
+
+.header-block .search-text-box::-webkit-input-placeholder,
+.header-block input.dummy-input {
+  font-weight: 300
+}
+
+.navlink.see-all-cat .menuLinks .catText,
+.navlink.see-all-cat .menuLinks i {
+  color: #666 !important
+}
+
+.navlink.see-all-cat .menuLinks:hover .catText,
+.navlink.see-all-cat .menuLinks:hover i {
+  color: #fff !important
+}
+
+.navlink .menuLinks .catText {
+  color: #666 !important
+}
+
+.navlink .menuLinks:hover .catText {
+  color: #fff !important
+} 
+
+.header-block.grcocery .list-item:hover {
+  color: #d8778c !important
+}
+
+.header-block.grocery .userAccount-wrapper .signup-login-btn-div .default-text-color:hover {
+  color: #d8778c !important
+}
+
+.header-block.grocery .menuDropdown .menuLink-color:hover {
+  background-color: transparent !important
+}
+
+.header-block.grocery .list-item:hover {
+  color: #d8778c !important
+}
+ 
+
+.header-block.furniture .list-item:hover {
+  color: #d8778c !important
+}
+
+.header-block.furniture .userAccount-wrapper .signup-login-btn-div .default-text-color:hover {
+  color: #d8778c !important
+}
+
+.header-block.furniture .menuLink-color:hover {
+  border-color: #d8778c !important
+}
+
+.header-block.furniture .menuLink-color.parent-menulink:hover {
+  border-color: #d8778c !important
+}
+
+.header-block.apparel .list-item:hover {
+  color: #d8778c !important
+}
+
+.header-block.apparel .userAccount-wrapper .signup-login-btn-div .default-text-color:hover {
+  color: #d8778c !important
+}
+
+.wap-header-bg-color,
+body.wap .omni-header.webheader,
+body.wap .omni-header.webheader .custom-template.mobile-header,
+.wap .omni-left-panel-container .section-login-signup .shortNamePosition,
+.wap .signUpModal .user-initials-wrapper {
+  background-color: rgba(255, 255, 255, 0) !important
+}
+
+.mobileheader {
+  background-color: rgba(255, 255, 255, 0) !important;
+  background-color: #fff !important
+}
+
+.wap .social .category-tags {
+  background-color: #fff !important
+}
+
+.social .all-caught-up .icon-style {
+  color: #fff !important
+}
+
+.wap .social .category-tag .category-name {
+  color: #333 !important
+}
+
+.wap .social .category-tag.active .category-name {
+  color: #fff !important
+}
+
+.wap .social .category-tags .background-div {
+  background-color: #333 !important
+}
+
+.wap .menu-link-modal-header,
+.section-user-options .edit-menu-btn-holder {
+  background-color: #fff !important
+}
+
+body.wap .omni-header.webheader.homepage-hdr .coverImageHeader .custom-template.mobile-header,
+body.wap .omni-header.webheader .coverImageHeader .omni-header.webheader {
+  background-color: rgba(0, 0, 0, 0) !important
+}
+
+body.wap .omni-header.webheader.homepage-hdr .coverImageHeader .main-outer {
+  background-image: none !important;
+  background-color: rgba(255, 255, 255, 0) !important
+}
+
+html.desktop body:not(.home) .webheader.homepage-hdr .header-block.coverImageHeader,
+html.desktop .webheader:not(.homepage-hdr) .header-block.coverImageHeader {
+  background-color: #fff
+}
+
+body.wap .omni-header.webheader:not(.homepage-hdr) .coverImageHeader .custom-template.mobile-header,
+.wap.omniBasics .omni-header.webheader .coverImageHeader .custom-template.mobile-header,
+body.wap.sticky-omniheader .omni-header.webheader .coverImageHeader .main-outer,
+body.wap.fixed-omniheader .omni-header.webheader .coverImageHeader .main-outer {
+  background-image: none !important;
+  background-color: #fff !important
+}
+
+body.wap.delivery-address .omni-header.webheader .sub-header-text {
+  color: #3e3e3e !important
+}
+
+body.wap .order-summary #calendarDateTimeModal .modal-header {
+  background: #fff;
+  color: #3e3e3e;
+  opacity: 1
+}
+
+body.wap .order-summary #calendarDateTimeModal .modal-header .back,
+body.wap .order-summary #calendarDateTimeModal .modal-header .modal-title,
+body.wap .order-summary #calendarDateTimeModal .modal-header .modal-subtitle {
+  color: #3e3e3e
+}
+
+.header-block.machinery2 .header-top-color {
+  background-color: rgba(255, 255, 255, 0) !important
+}
+
+.webheader .header-block.machinery2 {
+  border-top-color: rgba(0, 0, 0, 0);
+  border-bottom-color: rgba(0, 0, 0, 0)
+}
+
+.child-menuLink-background:hover~.moreLink.menuLink-color a {
+  color: #d8778c !important;
+  text-decoration: none
+}
+
+.header-block.machinery2 .menulist-container .menuLink-color:hover::before {
+  border-color: #d8778c !important
+}
+
+.header-block.machinery2 .menulist-container .moreLink.menuLink-color #moreTextId:before {
+  border-bottom: 2px solid #d8778c !important
+}
+
+.header-block.machinery2 .header-center .menu-list-holder {
+  border: none
+}
+
+.header-block:not(.coverImageHeader) .header-center .menu-list-holder,
+.header-block.machinery3 .third-block .header-center .leftLink-outerDiv,
+.header-block.machinery3 .third-block .header-center .rightLink-outerDiv {
+  border-bottom: 1px solid !important
+}
+
+.header-block.machinery3 .third-block .header-center .leftLink-outerDiv,
+.header-block.machinery3 .third-block .header-center .rightLink-outerDiv {
+  border-bottom: 1px solid #101010 !important;
+  border-top: 1px solid #101010 !important
+}
+
+.header-block.machinery3 .user-icon-color {
+  color: #333 !important
+}
+
+.phone-icon-color {
+  color: #333 !important
+}
+
+.customise-header .preview .user-icon-color {
+  color: #333 !important
+}
+
+.wap-header-icon-color,
+.wap .main-outer .cart-icon,
+.wap .main-outer .category-burger-menu i,
+.wap .main-outer .back-btn i,
+.wap .main-outer .omni-burger i,
+.wap .main-outer .cross-icon i,
+.wap .main-outer .omni-control-search i,
+.wap .omni-left-panel-container .section-login-signup .my-account,
+.wap .omni-left-panel-container .user-login-link,
+.wap .menu-link-modal-header .heading,
+.wap .menu-link-modal-header .icon-close-thin,
+.section-user-options .selection-btn,
+.omni-left-panel .section-login-signup,
+.wap .omni-left-panel-container .section-login-signup .right-arrow-fonts,
+.wap .slider-icon {
+  color: #333 !important
+}
+
+.background-phone-icon-color {
+  background-color: #333 !important
+}
+
+.coverImageHeader .mobile-header .user-initials-wrapper {
+  background-color: #fff !important
+}
+
+.mobile-header .user-initials-wrapper {
+  color: #333 !important;
+  background-color: #fff !important
+}
+
+.section-user-options .selection-btn,
+.wap .omni-left-panel-container .section-login-signup .shortNamePosition {
+  border-color: #333 !important
+}
+
+.wap .main-outer .content-text,
+.wap .signUpModal .user-initials-wrapper {
+  color: #333 !important
+}
+
+.header-block .profile-icon {
+  color: #333 !important
+}
+
+.my-account-div:hover .my-account-popup .profile-icon,
+.signup-login-btn-div:hover .login-icon-holder .profile-icon {
+  color: #d8778c !important;
+}
+
+body.wap .verify-mobile .mob-no .warning-btn.disabled,
+body.wap .order-summary .cnfrmwp .cnfrmbtn.disabled,
+body.wap .mdyadrs .cnfrmwp .cnfrmbtn.disabled {
+  background-color: #cfcfcf;
+  color: #FFF;
+  cursor: default;
+  opacity: 1
+}
+
+.omni-header .header-block .custom-template .srchbarwp input::-webkit-input-placeholder,
+.omni-header .header-block .custom-template .srchbarwp input::placeholder,
+.omni-header .header-block .custom-template .srchbarwp input.dummy-input,
+.omni-header .header-block .custom-template .srchbarwp .search-bar .srchicnwp.icons-block .search-icon {
+  color: #788288 !important
+}
+
+.omni-header .header-block .custom-template .srchbarwp .search-bar {
+  border-color: #EAEAEA !important;
+  background-color: #fff !important
+}
+
+.omni-header .header-block .custom-template .srchbarwp .search-bar .icons-block .icon-barcode,
+.omni-header .header-block .custom-template .srchbarwp .search-bar .icons-block .icon-microphone,
+.omni-header .header-block .custom-template .srchbarwp .search-bar .icons-block .icon-GlList {
+  color: #747474 !important
+}
+
+.header-block .defaultLink-wrapper .store-Outlet:hover .iconLocation {
+  color: #d8778c
+}
+
+.header-block .defaultLink-wrapper .store-Outlet:hover .store-name-color {
+  color: #d8778c
+}
+
+.omni-left-panel .section-login-signup,
+.omni-left-panel .section-login-signup:active {
+  background-color: #fff !important
+}
+
+.second-partition-solid {
+  background-color: #fff !important
+}
+
+.footer-background {
+  background: #fff !important
+}
+
+.footer-basics .more-popover {
+  background-color: #fff !important
+}
+
+.shop-footer .text-color {
+  color: #333 !important
+}
+
+.shop-footer .divider {
+  border-bottom: 1px solid #f9f9f9 !important
+}
+
+.shop-footer .store-bg-color {
+  background: #D8778C !important
+}
+
+.shop-footer .store-initial-color {
+  color: #fff !important
+}
+
+.shop-footer .store-name-color {
+  color: #D8778C !important
+}
+
+.footer-main .b2b-lessmore a,
+.footer-main .footer-sec .sh-more-useful-links a,
+.footer-main .footer-sec .social-sec a:hover,
+.footer-basics .icon-pagination-down:focus,
+.footer-basics a:focus,
+.footer-basics a:focus,
+.footer-basics .expand-links:hover span {
+  color: #D8778C !important
+}
+
+.footer-links .parent-menulink a:hover~i {
+  color: #D8778C !important
+}
+
+.footer-links .parent-menulink:hover>a,
+.footer-links .parent-menulink:hover>i {
+  color: #D8778C !important
+}
+
+.footer-options .parent-menulink a:hover~i,
+.footer-options a:hover {
+  color: #D8778C !important
+}
+
+.footer-options.parent-menulink .popover a:hover {
+  color: #fff !important
+}
+
+.footer-basics .menuDropdown li:hover>a,
+.footer-basics .menuDropdown li:hover>i {
+  color: #fff !important
+}
+
+.footer-basics .menuDropdown li a {
+  color: #333 !important
+}
+
+.wap .footer-basics .footer-options-cnt .footer-options {
+  border-right: 1px solid #D8778C
+}
+
+.shop-footer .social-sec.wrap-icons .sprite_new {
+  color: #333 !important
+}
+
+.shop-footer .social-sec.wrap-icons .sprite_new:hover {
+  color: #D8778C !important
+}
+
+.footer-child-menu-background {
+  background-color: #fff !important
+}
+
+.shop-footer .more-popover {
+  background-color: #fff !important
+}
+
+.footer-child-menu-background.top .arrow:after,
+.more-popover.top .arrow:after {
+  border-top-color: #fff !important
+}
+
+.footer-child-menu-background.right .arrow:after {
+  border-right-color: #fff !important
+}
+
+.footer-child-menu-color {
+  color: #333 !important
+}
+
+.footer-child-menu-color:hover {
+  color: #fff !important
+}
+
+.footer-basics .menuDropdown li:hover {
+  background-color: #D8778C !important
+}
+
+.footer-child-background-hover:hover {
+  background-color: #D8778C !important
+}
+
+.footer-child-background-hover:hover>a {
+  color: #fff !important
+}
+
+.footer-language-section {
+  background-color: #D8778C !important
+}
+
+.shop-footer .lang-change {
+  color: #fff
+}
+
+.shop-footer .language-div .change-lang {
+  color: #fff !important
+}
+
+.shop-footer .language-div .lang-change.selected-lang {
+  color: #ccc !important
+}
+
+#topcontrol {
+  background-color: #D8778C !important
+}
+
+.wap #JDvoice_search .mic-icon-holder-inner svg g rect {
+  fill: #fff
+}
+
+.product-name-price-details .enquire-tab.active,
+.product-name-price-details .buy-online-tab.active {
+  border-top-color: #d8778c !important;
+  color: #d8778c !important
+}
+
+.product-name-price-details .enquire-tab:not(.active),
+.product-name-price-details .buy-online-tab:not(.active) {
+  border-bottom-color: #d8778c !important
+}
+
+.product-name-price-details .buy-online-tab {
+  border-right-color: #d8778c !important
+}
+
+.primary-btn-color-non-imp {
+  background-color: #d8778c
+}
+
+.primary-btn-color-imp {
+  background-color: #d8778c !important
+}
+
+.notification-container .primary-btn-color-non-imp {
+  background-color: #d8778c
+}
+
+.primary-btn-psuedo-with-brd::after {
+  background-color: #d8778c;
+  border-color: #d8778c
+}
+
+.primary-btn-brd::after {
+  border-color: #d8778c
+}
+
+.primary-btn-color,
+.primary-btn-color-opaque,
+.btn.primary-btn-color,
+body.wap .btn.primary-btn-color,
+.send_enquiry_btn.primary-btn-color,
+.enquiryForm .send-enquiry.primary-btn-color,
+.wap .listing-outerDiv .add-to-cart.primary-btn-color {
+  background-color: #d8778c;
+  color: #fff;
+  outline-color: transparent;
+  transition: 0.3s
+}
+
+.primary-btn-color:focus,
+.btn.primary-btn-color:focus {
+  color: #fff
+}
+
+.primary-color-border,
+.product-btn .primary-color-border {
+  border-color: #d8778c
+}
+
+.custom-template .primary-btn-color {
+  border-style: solid;
+  border-color: #d8778c
+}
+
+.primary-btn-color .loading-span {
+  border-color: #fff;
+  border-top-color: transparent
+}
+
+.button-component .loader-svg-holder .circle,
+.full-width-button circle {
+  stroke: #fff !important
+}
+
+.tertiary-btn-color .loading-span {
+  border-color: #d8778c;
+  border-top-color: transparent
+}
+
+.secondary-btn-color .loading-span {
+  border-color: #fff;
+  border-top-color: transparent
+}
+
+.wap .quantity-change-div {
+  border-color: #d8778c
+}
+
+.quantity-change-div .loading-span,
+.qty-up-down .loading-span {
+  border-color: #d8778c;
+  border-top-color: transparent
+}
+
+.primary-btn-color-opaque {
+  background-color: #d8778c
+}
+
+.social .category-section .category-name-color {
+  color: #ef889e
+}
+
+.secondary-btn-color,
+.btn.secondary-btn-color {
+  background-color: #d8778c;
+  color: #fff;
+  border-color: #d8778c;
+  outline-color: transparent;
+  transition: 0.3s
+}
+
+.template-main-container .secondary-btn-color,
+.template-main-container .btn.secondary-btn-color {
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  font-size: 14px;
+  border-width: 1px;
+  line-height: normal;
+  letter-spacing: normal
+}
+
+.floatCartButton .cart-txt-icon,
+.floatCartButton:hover .cart-btn-icon,
+.webheader .floatCartButton .cart-btn-icon,
+.webheader .floatCartButton .cart-icon {
+  color: #fff !important
+}
+
+.floatCartButton .cart-cnt-bg.cart-count-val {
+  background-color: #fff !important
+}
+
+.floatCartButton .cart-cnt-bg .cart-count-val {
+  color: #d8778c !important
+}
+
+.emptycart .cart-emptyBx .cont-shop button.tertiary-btn-color,
+.desktop .prod-detail-section .view-all-tab.tertiary-btn-color,
+.listing-outerDiv .enquiry-mobile.tertiary-btn-color,
+.template-main-container .cms-add-action-button.tertiary-btn-color,
+.emptycart .cart-emptyBx .cont-shop button.tertiary-btn-color,
+#bookAppointment .submit-btn.tertiary-btn-color,
+.tertiary-btn-color,
+.wishlist-outerDiv .wishlist-body .wishlist-products .tertiary-btn-color,
+.btn.tertiary-btn-color,
+body.wap .btn.tertiary-btn-color,
+.product-details-page .range-default-style.selected,
+.btn.tertiary-btn-color:focus {
+  background-color: #fff;
+  color: #d8778c;
+  border-color: #d8778c;
+  outline-color: transparent;
+  transition: 0.3s
+}
+
+.template-main-container .cms-add-action-button.tertiary-btn-color {
+  border-radius: 30px
+}
+
+.primary-icon-btn-color,
+.qty-up-down .primary-icon-btn-color,
+.adbutton2.primary-icon-btn-color {
+  background-color: transparent;
+  color: #d8778c;
+  border-color: transparent;
+  outline-color: transparent;
+  transition: 0.3s
+}
+
+.primary-icon-btn-color .background-icon {
+  background-color: #fff
+}
+
+.myAccount .my-account .myaccount-area .save-info-btn .btn {
+  background-color: #d8778c;
+  color: #fff;
+  border-color: #d8778c;
+  outline-color: transparent
+}
+
+.button-design-modal .default-primary-btn {
+  background-color: #d8778c;
+  color: #fff;
+  border-color: #d8778c;
+  outline-color: transparent;
+  transition: 0.3s;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 14px;
+  border-width: 1px;
+  line-height: inherit;
+  letter-spacing: normal
+}
+
+.button-design-modal .default-primary-btn:focus {
+  color: #fff !important;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 14px;
+  border-width: 1px;
+  line-height: inherit;
+  letter-spacing: normal
+}
+
+.button-design-modal .default-secondary-btn {
+  background-color: #d8778c;
+  color: #fff;
+  border-color: #d8778c;
+  outline-color: transparent;
+  transition: 0.3s;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 14px;
+  border-width: 1px;
+  line-height: inherit;
+  letter-spacing: normal
+}
+
+.button-design-modal .default-tertiary-btn,
+.button-design-modal .default-tertiary-btn:focus {
+  background-color: #fff;
+  color: #d8778c;
+  border-color: #d8778c;
+  outline-color: transparent;
+  transition: 0.3s;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 14px;
+  border-width: 1px;
+  line-height: inherit;
+  letter-spacing: normal
+}
+
+.product-info-sec .ranges.selected,
+body.wap .product-variants .product-variant-keys .variant.active,
+body.wap .product-variants .variant-selected-style,
+.product-info-sec .variants .variant-selected-style {
+  color: #d8778c !important;
+  border-color: #d8778c !important
+}
+
+.floatCartButton,
+.enquiryForm .submit-btn.primary-btn-color,
+#calendarDateTimeModal .react-datepicker .react-datepicker__day--highlighted,
+.couponCodeSection .coupon-input-box .input-group-btn .primary-btn-color,
+#bookAppointment .submit-btn.primary-btn-color,
+.wishlist-outerDiv .wishlist-body .wishlist-products .primary-btn-color,
+.gymain .save-cont-wrp .svCont,
+:not(.button-design-modal).template-main-container .btn:not(.toolbar-action),
+.coverImageHeader.template-main-container .custom-template .editable-button-container .btn,
+.delivery-slot-container .date-card-container .date-card.selected,
+.delivery-slot-container .time-slot-container .time-slot.selected,
+.wap .deliverySlot .delivery-slot-container .react-datepicker .react-datepicker__day.react-datepicker__day--selected,
+.wap .deliverySlot .delivery-slot-container .date-section .date-card-container .date-card.selected,
+.wap .deliverySlot .delivery-slot-container .slots-wrapper .time-slot-container .time-slot.selected {
+  background-color: #d8778c;
+  color: #fff;
+  border-color: #d8778c;
+  outline-color: transparent;
+  transition: 0.3s
+}
+
+.coverImageHeader.template-main-container .custom-template .editable-button-container .btn,
+.template-main-container .btn,
+.template-main-container .primary-btn-color {
+  border-radius: 30px;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: none;
+  font-size: 14px;
+  border-width: 1px;
+  line-height: normal;
+  letter-spacing: normal
+}
+
+.addBx.autoAdButon .adbutton1.primary-btn-color,
+.auto-rfqBtnWrp .rfqBtn.primary-btn-color {
+  border: 1px solid #d8778c;
+  background-color: #d8778c;
+  color: #fff;
+  line-height: 25px
+}
+
+.wap.preview .zoomImageDiv .belowSlider .sliderElement .sliderList.border-blue {
+  border-color: #d8778c !important
+}
+
+@media (hover: hover) and (pointer: fine) {
+
+  .primary-btn-color:not(.no-hover):hover,
+  .btn.primary-btn-color:not(.no-hover):hover,
+  body.wap .btn.primary-btn-color:not(.no-hover):hover,
+  .enquiryForm .send-enquiry.primary-btn-color:not(.no-hover):hover,
+  .wap .listing-outerDiv .add-to-cart.primary-btn-color:not(.no-hover):hover {
+    background-color: #ef889e;
+    color: #fff;
+    border-color: #ef889e;
+    outline-color: transparent
+  }
+
+  .secondary-btn-color:not(.no-hover):hover,
+  .btn.secondary-btn-color:not(.no-hover):hover {
+    background-color: #ef889e;
+    color: #fff;
+    border-color: #ef889e;
+    outline-color: transparent;
+    text-decoration: none
+  }
+
+  .floatCartButton:hover {
+    background-color: #ef889e;
+    color: #fff;
+    border-color: #ef889e;
+    outline-color: transparent;
+    transition: 0.3s
+  }
+
+  .floatCartButton:hover .cart-txt-icon,
+  .floatCartButton .cart-txt-icon:hover,
+  .floatCartButton:hover .cart-btn-icon,
+  .floatCartButton .cart-btn-icon:hover {
+    color: #fff !important
+  }
+
+  .floatCartButton .cart-cnt-bg:hover,
+  .floatCartButton:hover .cart-cnt-bg.cart-count-val {
+    background-color: #fff !important
+  }
+
+  .floatCartButton:hover .cart-cnt-bg .cart-count-val,
+  .floatCartButton .cart-cnt-bg .cart-count-val:hover,
+  .floatCartButton:hover .cart-cnt-bg:hover .cart-count-val {
+    color: #ef889e !important
+  }
+
+  .button-design-modal .default-primary-btn:not(.no-hover):hover {
+    background-color: #ef889e !important;
+    color: #fff !important;
+    border-color: #ef889e !important;
+    outline-color: transparent;
+    text-decoration: none
+  }
+
+  .button-design-modal .default-secondary-btn:not(.no-hover):hover {
+    background-color: #ef889e !important;
+    color: #fff !important;
+    border-color: #ef889e !important;
+    outline-color: transparent;
+    text-decoration: none
+  }
+
+  .button-design-modal .default-tertiary-btn:not(.no-hover):hover {
+    background-color: #ef889e !important;
+    color: #fff !important;
+    border-color: #ef889e !important;
+    outline-color: transparent;
+    text-decoration: none
+  }
+
+  .emptycart .cart-emptyBx .cont-shop button.tertiary-btn-color:hover,
+  .desktop .prod-detail-section .view-all-tab.tertiary-btn-color:hover,
+  .listing-outerDiv .enquiry-mobile.tertiary-btn-color:hover,
+  .template-main-container .cms-add-action-button.tertiary-btn-color:hover,
+  .emptycart .cart-emptyBx .cont-shop button.tertiary-btn-color:hover,
+  #bookAppointment .submit-btn.tertiary-btn-color:hover,
+  .wishlist-outerDiv .wishlist-body .wishlist-products .tertiary-btn-color:hover,
+  .tertiary-btn-color:not(.no-hover):hover,
+  .btn.tertiary-btn-color:not(.no-hover):hover,
+  body.wap .btn.tertiary-btn-color:not(.no-hover):hover {
+    background-color: #ef889e;
+    color: #fff;
+    border-color: #ef889e;
+    outline-color: transparent;
+    text-decoration: none
+  }
+
+  .myAccount .my-account .myaccount-area .save-info-btn .btn:hover {
+    background-color: #ef889e;
+    color: #fff;
+    border-color: #ef889e;
+    outline-color: transparent;
+    text-decoration: none
+  }
+
+  .desktop .enquiryForm .submit-btn.primary-btn-color:hover,
+  .desktop #calendarDateTimeModal .react-datepicker__day:hover,
+  .desktop #calendarDateTimeModal .react-datepicker .react-datepicker__day:not(.react-datepicker__day--disabled):hover,
+  .desktop .couponCodeSection .coupon-input-box .jd-btn-primary.primary-btn-color:hover,
+  .desktop #cartTable .itmdt .green_btn.primary-btn-color:hover,
+  .desktop #calendarDateTimeModal .react-datepicker .react-datepicker__day--highlighted:hover,
+  .desktop .couponCodeSection .coupon-input-box .input-group-btn .primary-btn-color:hover,
+  .desktop #bookAppointment .submit-btn.primary-btn-color:hover,
+  .desktop .addBx.autoAdButon .adbutton1.primary-btn-color:hover,
+  .desktop .auto-rfqBtnWrp .rfqBtn.primary-btn-color:hover,
+  .desktop .wishlist-outerDiv .wishlist-body .wishlist-products .primary-btn-color:hover,
+  .desktop .gymain .grcChktBtm .svCont:hover,
+  .desktop .gymain .save-cont-wrp .svCont:hover,
+  .desktop #outletChangeModal.trk-ordrPop .strtShopbtWrp .strtShopBt-act:hover,
+  .desktop .static-templates .template-main-container .custom-template .btn:not(.toolbar-action):hover,
+  .desktop :not(.button-design-modal).template-main-container .custom-template .editable-content-holder .link-button.btn:hover,
+  .desktop .static-templates .template-main-container .custom-template .editable-button-container .btn:hover,
+  .desktop .coverImageHeader.template-main-container .custom-template .editable-button-container .btn:hover {
+    background-color: #ef889e;
+    color: #fff;
+    border-color: #ef889e;
+    outline-color: transparent;
+    text-decoration: none
+  }
+}
+
+
+.desktop .header-block.coverImageHeader .container-fluid {
+  max-width: 1350px;
+  min-height: 58vh;
+  width: 100%;
+  margin: unset;
+  padding: 0 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-block.coverImageHeader .third-block {
+  min-height: 0px;
+  align-items: center;
+  justify-content: end;
+  display: flex;
+}
+
+.desktop .template-main-container .positionCenterRight {
+  align-items: center !important;
+  justify-content: flex-end !important;
+}
+
+.desktop .coverImageHeader .positionCenterRight {
+  align-items: center !important;
+  justify-content: flex-end !important;
+}
+
+
+@font-face {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Open Sans Light"), local("OpenSans-Light"), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhpKKSTjw.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Open Sans Regular"), local("OpenSans-Regular"), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Open Sans Bold"), local("OpenSans-Bold"), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUuhpKKSTjw.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Arimo;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Arimo Regular"), local("Arimo-Regular"), url(https://fonts.gstatic.com/s/arimo/v11/P5sMzZCDf9_T_10ZxCFuj5-v.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Arimo;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Arimo Bold"), local("Arimo-Bold"), url(https://fonts.gstatic.com/s/arimo/v11/P5sBzZCDf9_T_1Wi4TRDrZKF09E3.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Proza Libre;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Proza Libre"), local("ProzaLibre-Regular"), url(https://fonts.gstatic.com/s/prozalibre/v3/LYjGdGHgj0k1DIQRyUEyyEoodNr1Wpyy.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Proza Libre;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local("Proza Libre Medium"), local("ProzaLibre-Medium"), url(https://fonts.gstatic.com/s/prozalibre/v3/LYjbdGHgj0k1DIQRyUEyyELbV8_YeJGY9T6M.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Proza Libre;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Proza Libre Bold"), local("ProzaLibre-Bold"), url(https://fonts.gstatic.com/s/prozalibre/v3/LYjbdGHgj0k1DIQRyUEyyEKTUc_YeJGY9T6M.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: local("Roboto Thin"), local("Roboto-Thin"), url(https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1MmgVxIIzI.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Roboto Light"), local("Roboto-Light"), url(https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Roboto"), local("Roboto-Regular"), url(https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local("Roboto Medium"), local("Roboto-Medium"), url(https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Roboto Bold"), local("Roboto-Bold"), url(https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local("Roboto Black"), local("Roboto-Black"), url(https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Hind Madurai;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Hind Madurai Light"), local("HindMadurai-Light"), url(https://fonts.gstatic.com/s/hindmadurai/v3/f0Xu0e2p98ZvDXdZQIOcpqjfXaUXfsEpEp4L_w.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Hind Madurai;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Hind Madurai Regular"), local("HindMadurai-Regular"), url(https://fonts.gstatic.com/s/hindmadurai/v3/f0Xx0e2p98ZvDXdZQIOcpqjX9ocCU-MkOA.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Hind Madurai;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local("Hind Madurai Medium"), local("HindMadurai-Medium"), url(https://fonts.gstatic.com/s/hindmadurai/v3/f0Xu0e2p98ZvDXdZQIOcpqjfBaQXfsEpEp4L_w.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}
+
+@font-face {
+  font-family: Hind Madurai;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Hind Madurai Bold"), local("HindMadurai-Bold"), url(https://fonts.gstatic.com/s/hindmadurai/v3/f0Xu0e2p98ZvDXdZQIOcpqjfTaIXfsEpEp4L_w.woff2) format("woff2");
+  unicode-range: U+00??, U+0131, U+0152-0153, U+02bb-02bc, U+02c6, U+02da, U+02dc, U+2000-206f, U+2074, U+20ac, U+2122, U+2191, U+2193, U+2212, U+2215, U+feff, U+fffd
+}

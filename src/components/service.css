@@ -1,0 +1,13 @@
+
+.img_border_radious {
+    border-radius: 15px 15px 15px 15px !important;
+}
+
+.serviceTitleCss { 
+    color: rgb(0, 0, 0);
+    font-size: "Hind Madurai";
+    line-height: 1.4;
+    border-style: none; 
+    font-weight: 600 !important;
+    font-size: 20px;
+}
