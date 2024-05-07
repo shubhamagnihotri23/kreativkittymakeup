@@ -3,21 +3,34 @@ import LazyImage from '../utils/Lazyimages';
 import Box from '@mui/material/Box';
 import Skeleton from '@mui/material/Skeleton';
 import { toAbsoluteUrl } from '../utils/utlis';
+import img_1 from '../media/gallery/img_5.jpg';
+import img_2 from '../media/gallery/img_6.jpg';
+import img_3 from '../media/gallery/img_2.jpg';
+import img_4 from '../media/gallery/img_11.jpeg';
+import img_5 from '../media/gallery/img_14.jpeg';
+import img_6 from '../media/gallery/img_12.jpeg';
+import img_7 from '../media/gallery/img_13.jpeg';
+import img_8 from '../media/gallery/img_15.jpeg';
+import img_9 from '../media/gallery/img_16.jpeg';
+import img_10 from '../media/gallery/img_8.jpg';
+import img_11 from '../media/gallery/img_10.jpg';
+import img_12 from '../media/gallery/img_17.jpeg';
+
 import './gallery.css'
 
 const img = [
-    `./media/images/img_5.jpg`,
-    `./media/images/img_6.jpg`,
-    `/media/images/img_2.jpg`,
-    `/media/images/img_11.jpeg`,
-    `/media/images/img_14.jpeg`,
-    `/media/images/img_12.jpeg`,
-    `/media/images/img_13.jpeg`,
-    `/media/images/img_15.jpeg`,
-    `/media/images/img_16.jpeg`,
-    `/media/images/img_8.jpg`,
-    `/media/images/img_10.jpg`,
-    `/media/images/img_17.jpeg`,
+    img_1,
+    img_2,
+    img_3,
+    img_4,
+    img_5,
+    img_6,
+    img_7,
+    img_8,
+    img_9,
+    img_10,
+    img_11,
+    img_12,
 ]
 
 const Gallery = () => {

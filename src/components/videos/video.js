@@ -1,14 +1,19 @@
 import React from 'react';
 import { toAbsoluteUrl } from '../../utils/utlis';
 import MapVideos from './mapVideos';
+import Video1 from './videosSrc/video_1.mp4';
+import Video2 from './videosSrc/video_2.mp4';
+import Video3 from './videosSrc/video_3.mp4';
+import Video4 from './videosSrc/video_4.mp4';
+
 
 export default function video() {
 
     const videos = [
-        `/media/videos/video_1.mp4`,
-        `/media/videos/video_2.mp4`,
-        `/media/videos/video_3.mp4`,
-        `/media/videos/video_4.mp4`
+       Video1,
+       Video2,
+       Video3,
+       Video4
     ]
     return (
         <div className="container min-vh-100">

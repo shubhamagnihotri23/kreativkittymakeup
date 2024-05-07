@@ -1,12 +1,16 @@
 import React from 'react';
 import './service.css';
+import serviceImg1 from '../media/service/service_1.webp';
+import serviceImg2 from '../media/service/service_1.webp';
+import serviceImg3 from '../media/service/service_1.webp';
+
 
 export default function service({ handleEnquire }) {
     const service = [
-        { title: ' Party Makeup', img: 'https://image3.jdomni.in/banner/15062022/31/F8/EC/A3EC05FEA6E21CAAA86A769833_1655272236946.png?output-format=webp', discription: 'A light-weight makeup applied through an air gun machine that produces a thin, even layer of makeup.' },
-        { title: 'Trial Make Up', img: 'https://image3.jdomni.in/banner/04082022/01/E0/37/375EE77401B22E5EFA08556F09_1659612054854.jpg?output-format=webp', discription: 'We offer trial make up sessions for your special event through which you can try our services.' },
-        { title: 'Wedding Makeup', img: 'https://image3.jdomni.in/banner/15062022/CC/85/6B/8F5C36564A95A0FFC7A9694B62_1655271996196.jpg?output-format=webp', discription: 'Our Regular Makeup package fits your needs for your special day, and makes you look beautiful.' },
-        { title: ' HD Make Up', img: 'https://image3.jdomni.in/banner/15062022/31/F8/EC/A3EC05FEA6E21CAAA86A769833_1655272236946.png?output-format=webp', discription: 'All our packages are customizable as per your plan and needs and also offers various discounts.' },
+        { title: ' Party Makeup', img: serviceImg1, discription: 'A light-weight makeup applied through an air gun machine that produces a thin, even layer of makeup.' },
+        { title: 'Trial Make Up', img: serviceImg2, discription: 'We offer trial make up sessions for your special event through which you can try our services.' },
+        { title: 'Wedding Makeup', img: serviceImg3, discription: 'Our Regular Makeup package fits your needs for your special day, and makes you look beautiful.' },
+        { title: ' HD Make Up', img: serviceImg1, discription: 'All our packages are customizable as per your plan and needs and also offers various discounts.' },
     ]
     return (
         <div className="edit-content  contentBlock881841223 firstContent jd-services" >
