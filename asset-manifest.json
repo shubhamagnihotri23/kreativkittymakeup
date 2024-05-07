@@ -1,17 +1,34 @@
 {
   "files": {
     "main.css": "/kreativkittymakeup/static/css/main.19de85a3.css",
-    "main.js": "/kreativkittymakeup/static/js/main.33a9639f.js",
-    "static/js/960.01794ebc.chunk.js": "/kreativkittymakeup/static/js/960.01794ebc.chunk.js",
+    "main.js": "/kreativkittymakeup/static/js/main.46c7447c.js",
+    "static/js/265.cfd0f1af.chunk.js": "/kreativkittymakeup/static/js/265.cfd0f1af.chunk.js",
     "static/js/453.c13705f2.chunk.js": "/kreativkittymakeup/static/js/453.c13705f2.chunk.js",
+    "static/media/img_6.jpg": "/kreativkittymakeup/static/media/img_6.d05b2e4c0ccc180bd5d7.jpg",
+    "static/media/video_4.mp4": "/kreativkittymakeup/static/media/video_4.737e7b1185c342775708.mp4",
+    "static/media/video_3.mp4": "/kreativkittymakeup/static/media/video_3.5f45fc4350fcfc9896b8.mp4",
+    "static/media/img_2.jpg": "/kreativkittymakeup/static/media/img_2.1a58c82a35bd56a52e36.jpg",
+    "static/media/video_2.mp4": "/kreativkittymakeup/static/media/video_2.3e7ef74e7a68d6217562.mp4",
+    "static/media/video_1.mp4": "/kreativkittymakeup/static/media/video_1.0d2f1b09af69e2a4230f.mp4",
+    "static/media/img_5.jpg": "/kreativkittymakeup/static/media/img_5.5afaf8bc3ffd05be5ce5.jpg",
+    "static/media/img_10.jpg": "/kreativkittymakeup/static/media/img_10.b14c67887c17d3251608.jpg",
+    "static/media/img_8.jpg": "/kreativkittymakeup/static/media/img_8.3dda15766955949ba68c.jpg",
+    "static/media/img_14.jpeg": "/kreativkittymakeup/static/media/img_14.1332140e2bb260b61fd0.jpeg",
+    "static/media/img_12.jpeg": "/kreativkittymakeup/static/media/img_12.56869b2ef665dea977b3.jpeg",
+    "static/media/img_16.jpeg": "/kreativkittymakeup/static/media/img_16.d275c32dcba82126d257.jpeg",
+    "static/media/img_13.jpeg": "/kreativkittymakeup/static/media/img_13.be11fec459088e48508d.jpeg",
+    "static/media/img_11.jpeg": "/kreativkittymakeup/static/media/img_11.71d4973d4e12cf8be1cb.jpeg",
+    "static/media/img_15.jpeg": "/kreativkittymakeup/static/media/img_15.e5c20c8488c853920421.jpeg",
+    "static/media/img_17.jpeg": "/kreativkittymakeup/static/media/img_17.8eec7674f62c6c895c61.jpeg",
+    "static/media/service_1.webp": "/kreativkittymakeup/static/media/service_1.539f2f18123af77b94e9.webp",
     "index.html": "/kreativkittymakeup/index.html",
     "main.19de85a3.css.map": "/kreativkittymakeup/static/css/main.19de85a3.css.map",
-    "main.33a9639f.js.map": "/kreativkittymakeup/static/js/main.33a9639f.js.map",
-    "960.01794ebc.chunk.js.map": "/kreativkittymakeup/static/js/960.01794ebc.chunk.js.map",
+    "main.46c7447c.js.map": "/kreativkittymakeup/static/js/main.46c7447c.js.map",
+    "265.cfd0f1af.chunk.js.map": "/kreativkittymakeup/static/js/265.cfd0f1af.chunk.js.map",
     "453.c13705f2.chunk.js.map": "/kreativkittymakeup/static/js/453.c13705f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19de85a3.css",
-    "static/js/main.33a9639f.js"
+    "static/js/main.46c7447c.js"
   ]
 }
