@@ -5,6 +5,7 @@ import Video1 from './videosSrc/video_1.mp4';
 import Video2 from './videosSrc/video_2.mp4';
 import Video3 from './videosSrc/video_3.mp4';
 import Video4 from './videosSrc/video_4.mp4';
+import Video5 from './videosSrc/video_5.mp4';
 
 
 export default function video() {
@@ -13,7 +14,8 @@ export default function video() {
        Video1,
        Video2,
        Video3,
-       Video4
+       Video4,
+       Video5
     ]
     return (
         <div className="container min-vh-100">

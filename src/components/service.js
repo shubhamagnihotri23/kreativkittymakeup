@@ -1,8 +1,8 @@
 import React from 'react';
 import './service.css';
 import serviceImg1 from '../media/service/service_1.webp';
-import serviceImg2 from '../media/service/service_1.webp';
-import serviceImg3 from '../media/service/service_1.webp';
+import serviceImg2 from '../media/service/service_2.webp';
+import serviceImg3 from '../media/service/service_3.webp';
 
 
 export default function service({ handleEnquire }) {
