@@ -6,8 +6,8 @@ import { toAbsoluteUrl } from '../utils/utlis';
 import './gallery.css'
 
 const img = [
-    `/media/images/img_5.jpg`,
-    `/media/images/img_6.jpg`,
+    `./media/images/img_5.jpg`,
+    `./media/images/img_6.jpg`,
     `/media/images/img_2.jpg`,
     `/media/images/img_11.jpeg`,
     `/media/images/img_14.jpeg`,
